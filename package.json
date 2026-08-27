@@ -1,0 +1,29 @@
+{
+  "name": "atividade_do_jo-o",
+  "version": "1.0.0",
+  "description": "Atividade do Joao",
+  "keywords": [
+    "Brum"
+  ],
+  "homepage": "https://github.com/Brum2023/Atividade_do_Jo-o#readme",
+  "bugs": {
+    "url": "https://github.com/Brum2023/Atividade_do_Jo-o/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brum2023/Atividade_do_Jo-o.git"
+  },
+  "license": "ISC",
+  "author": "Brum",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
